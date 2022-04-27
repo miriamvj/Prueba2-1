@@ -7,7 +7,7 @@ export default {
   name: "App",
   data() {
     return {
-      value: "Pedazo de cerdas"
+      value: "tq"
     };
   }
 };
